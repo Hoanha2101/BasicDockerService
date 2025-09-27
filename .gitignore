@@ -1,2 +1,3 @@
 # folder
 nginx/certs/*
+!nginx/certs/.gitkeep
